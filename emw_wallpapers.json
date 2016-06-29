@@ -3,9 +3,9 @@
    "wallpapers": [
       {
          "author": "Ravenleigh",
-         "url": "https://github.com/ravenleighii/EMW-Wallpaper/blob/master/emw_1.jpg?raw=true",
+         "url": "https://raw.githubusercontent.com/ravenleighii/EMW-Wallpaper/master/emw_1.jpg",
          "name": "EMW 1",
-         "thumbnail": "https://github.com/ravenleighii/EMW-Wallpaper/blob/master/emw_1_thumb.jpg?raw=true"
+         "thumbnail": "https://raw.githubusercontent.com/ravenleighii/EMW-Wallpaper/master/emw_1_thumb.jpg"
       }
    ]
 }
